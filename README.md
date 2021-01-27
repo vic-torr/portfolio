@@ -1,2 +1,2 @@
-# portifolio
-my own portifolio page
+# portfolio
+My portfolio page.
